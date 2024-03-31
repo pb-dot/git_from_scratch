@@ -63,7 +63,7 @@ python3 gfs.py push <GitHub_repo_url> -u <GitHub_username> -p <GitHub_password>
 python3 gfs.py status
 ```
 
-<img src="https://github.com/Sohoxic/GFS-git-from-scratch/blob/main/assets/images/cli.png">
+
 
 ## License
 
